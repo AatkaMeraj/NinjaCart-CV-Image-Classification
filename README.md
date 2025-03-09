@@ -34,6 +34,7 @@ Preprocessing: Resizing, normalization, data augmentation
 5️⃣ Deployment: Develop a simple user interface for image uploads and classification.
 
 📈 Expected Outcomes
+
 🔹 High-accuracy vegetable classification model.
 🔹 Reliable detection of non-vegetable images (noise).
 🔹 Optimized automation for Ninjacart’s supply chain.
