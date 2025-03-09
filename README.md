@@ -1,6 +1,7 @@
 # NinjaCart-CV-Vegetable-Image-Classification
 
 🚀 Project Overview
+
 Ninjacart, India's largest fresh produce supply chain company, aims to automate vegetable recognition using image classification. The objective of this project is to develop a robust model that can:
 ✅ Classify vegetables from images with high accuracy.
 ✅ Detect noise and correctly label images that do not contain any identifiable vegetable.
